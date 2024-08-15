@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Projects 
 
 Machine Learning has become popular and is now a crucial tool for research as well as the IT Industry. It's a groundbreaking area that lets us make smarter decisions and automate tasks. In simple language, Machine Learning or ML is about teaching computers how to learn on their own without us having to tell them everything explicitly. Nowadays, machine Learning is being used almost everywhere.
 
