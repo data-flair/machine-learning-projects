@@ -5,6 +5,46 @@ Machine Learning has become popular and is now a crucial tool for research as we
 This machine learning project article has over 100 new ML projects and ideas. Whether you're a college student or an industry professional, these projects are helpful. They're designed for learners beginning their journey into Machine Learning and Data Science.
 
 
+## 📌 Required Python Libraries for Projects
+
+To work on most of the projects in this repository, you will need the following Python libraries:
+
+### 🔹 Core Machine Learning & Deep Learning
+- TensorFlow  
+- Keras  
+- PyTorch  
+- scikit-learn  
+- numpy  
+- pandas  
+- scipy  
+- xgboost  
+
+### 🔹 Data Visualization
+- matplotlib  
+- seaborn  
+
+### 🔹 Computer Vision (Recommended)
+- opencv-python  
+- pillow  
+- mediapipe  
+
+### 🔹 Natural Language Processing (NLP)
+- nltk  
+- spacy  
+- transformers  
+
+### 🔹 Audio & Speech Processing
+- librosa  
+- speechrecognition  
+
+### 🔹 Graph & Math Libraries
+- NetworkX  
+- SymPy  
+
+These libraries cover most of the projects related to machine learning, deep learning, computer vision, and NLP in this repository.
+
+
+
 
 ## Machine Learning Projects for Beginners
 
